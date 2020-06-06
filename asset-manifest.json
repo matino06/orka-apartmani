@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/matino06/orka.git/static/css/main.25f53bbd.chunk.css",
+    "main.js": "/matino06/orka.git/static/js/main.8a2c2233.chunk.js",
+    "main.js.map": "/matino06/orka.git/static/js/main.8a2c2233.chunk.js.map",
+    "runtime-main.js": "/matino06/orka.git/static/js/runtime-main.3631834e.js",
+    "runtime-main.js.map": "/matino06/orka.git/static/js/runtime-main.3631834e.js.map",
+    "static/css/2.4b5d561d.chunk.css": "/matino06/orka.git/static/css/2.4b5d561d.chunk.css",
+    "static/js/2.772ed519.chunk.js": "/matino06/orka.git/static/js/2.772ed519.chunk.js",
+    "static/js/2.772ed519.chunk.js.map": "/matino06/orka.git/static/js/2.772ed519.chunk.js.map",
+    "index.html": "/matino06/orka.git/index.html",
+    "precache-manifest.f41fa21f761b0ad886029dbb606f79f9.js": "/matino06/orka.git/precache-manifest.f41fa21f761b0ad886029dbb606f79f9.js",
+    "service-worker.js": "/matino06/orka.git/service-worker.js",
+    "static/css/2.4b5d561d.chunk.css.map": "/matino06/orka.git/static/css/2.4b5d561d.chunk.css.map",
+    "static/css/main.25f53bbd.chunk.css.map": "/matino06/orka.git/static/css/main.25f53bbd.chunk.css.map",
+    "static/js/2.772ed519.chunk.js.LICENSE.txt": "/matino06/orka.git/static/js/2.772ed519.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/matino06/orka.git/static/media/fa-solid-900.ec763292.svg",
+    "static/media/App.css": "/matino06/orka.git/static/media/sea.75a4bbaa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3631834e.js",
+    "static/css/2.4b5d561d.chunk.css",
+    "static/js/2.772ed519.chunk.js",
+    "static/css/main.25f53bbd.chunk.css",
+    "static/js/main.8a2c2233.chunk.js"
+  ]
+}
